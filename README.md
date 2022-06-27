@@ -1,4 +1,4 @@
-Hi 👋 My name is ItzRoxer
+Hi 👋 I'm known as ItzRoxer
 =========================
 
 Java and Javascript Developer
@@ -6,7 +6,7 @@ Java and Javascript Developer
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [xroxer.masterx@gmail.com](mailto:xroxer.masterx@gmail.com)
-* 🧠  I'm learning Advanced Spiggot Api
+* 🧠  I'm currently learning Advanced Spiggot Api
 * 🤝  I'm open to collaborating on Interesting Java projects
 
 ### Skills
