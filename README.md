@@ -7,7 +7,7 @@ Java and Javascript Developer
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [xroxer.masterx@gmail.com](mailto:xroxer.masterx@gmail.com)
 * 🧠  I'm currently learning Advanced Spiggot Api
-* 🤝  I'm open to collaborating on Interesting Java projects
+* 🤝  I'm open to collaborating on Interesting Javascript projects
 
 ### Skills
 
