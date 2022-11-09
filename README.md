@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋 I'm known as ItzRoxer</h1>
 
-=========================
 
 <h3 align="center">Java and Javascript developer</h3>
------------------------------
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [xroxer.masterx@gmail.com](mailto:xroxer.masterx@gmail.com)
