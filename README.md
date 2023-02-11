@@ -5,7 +5,7 @@
 <h3 align="center">Java and Javascript developer</h3>
 
 * 🌍  I'm based in Poland, Warsaw
-* ✉️  You can contact me at [xroxer.masterx@gmail.com](mailto:xroxer.masterx@gmail.com)
+* ✉️  You can contact me at [dev.itzroxer@gmail.com](mailto:dev.itzroxer@gmail.com)
 * 🧠  I'm currently learning Advanced Spiggot Api
 * 🤝  I'm open to collaborating on Interesting Javascript projects
 
