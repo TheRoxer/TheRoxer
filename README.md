@@ -6,8 +6,7 @@
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [dev.itzroxer@gmail.com](mailto:dev.itzroxer@gmail.com)
-* 🧠  I'm currently learning Advanced Spiggot Api
-* 🤝  I'm open to collaborating on Interesting Javascript projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
