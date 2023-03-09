@@ -3,7 +3,8 @@
 
 
 <h3 align="center">Java and Javascript developer</h3>
-<p align="center">[![](https://visitcount.itsvg.in/api?id=TheRoxer&icon=2&color=6)](https://visitcount.itsvg.in)<p>
+<p align="center">[![]()](https://visitcount.itsvg.in)<p>
+<img src="https://visitcount.itsvg.in/api?id=TheRoxer&icon=2&color=6" align="center">
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [dev.itzroxer@gmail.com](mailto:dev.itzroxer@gmail.com)
