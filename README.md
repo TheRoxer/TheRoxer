@@ -3,8 +3,6 @@
 
 
 <h3 align="center">Web developer</h3>
-<img src="https://visitcount.itsvg.in/api?id=TheRoxer&icon=2&color=6">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheRoxer.counter)
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [dev.itzroxer@gmail.com](mailto:dev.itzroxer@gmail.com)
